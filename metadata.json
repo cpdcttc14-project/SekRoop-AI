@@ -1,0 +1,6 @@
+{
+  "name": "SekRoop AI Pro",
+  "description": "โปรแกรมเสกรูปสินค้าเกษตรไทยให้เป็นรูปภาพโฆษณาสุดพรีเมียมด้วยระบบปัญญาประดิษฐ์อัจฉริยะสำหรับเกษตรกรไทย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
